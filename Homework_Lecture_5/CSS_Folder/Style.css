@@ -4,7 +4,7 @@ h1 { font-family: Helvetica; color: #191919; font-size:34; }
 p {
     border-top-style: dotted;
     border-right-style: solid;
-    border-bottom-style: 50px dotted;
+    border-bottom-style: 500px dotted;
     border-left-style: solid;
     border-width: 5px;
 }
