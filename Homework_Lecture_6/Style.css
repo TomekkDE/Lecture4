@@ -6,6 +6,10 @@ h1 { font-family: Helvetica; color: #191919; font-size:34; }
     background-color: red;
 }
 
+#text {
+    background-color: blue;
+}
+
 .spacecow.jpeg {
     padding-top: 50px;
     padding-right: 30px;
