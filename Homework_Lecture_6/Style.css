@@ -27,6 +27,11 @@ spacecow.jpeg {
     border-width: 5px;
   }
 
+}
+#borderOneStep {
+  border: double red 5px;
+}
+
   span.MOO {
     font-size: 200%;
     color: orange;
