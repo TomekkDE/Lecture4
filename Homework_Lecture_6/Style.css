@@ -8,10 +8,14 @@ h1.headline {
 
 #warmair {
     background-color: red;
+    width: 180px;
+    height: 80px;
 }
 
 #text {
     background-color: blue;
+    width: 180px;
+    height: 80px;
 }
 
 spacecow.jpeg {
