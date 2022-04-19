@@ -29,6 +29,7 @@ h1.headline {
     border-color: green;
     border-style: dotted;
     border-width: 5px;
+    margin: 20px;
   }
 
 
