@@ -27,10 +27,16 @@ spacecow.jpeg {
     border-width: 5px;
   }
 
-}
+
 #borderOneStep {
   border: double red 5px;
 }
+
+.whitebox {
+    background-color: white;
+    width: 180px;
+    height: 80px;
+  }
 
   span.MOO {
     font-size: 200%;
