@@ -32,6 +32,13 @@ h1.headline {
     padding-left: 80px;
   }  
 
+.MOO {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }  
+
   #borderThreeSteps {
     border-color: green;
     border-style: dotted;
