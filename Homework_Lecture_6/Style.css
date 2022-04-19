@@ -21,6 +21,12 @@ spacecow.jpeg {
     padding-left: 80px;
   }
 
+  #borderThreeSteps {
+    border-color: green;
+    border-style: dotted;
+    border-width: 5px;
+  }
+
   span.MOO {
     font-size: 200%;
     color: orange;
