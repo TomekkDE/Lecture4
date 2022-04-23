@@ -72,3 +72,6 @@ h1.headline {
     font-family: times;
 }
   
+img {
+  float: right;
+}
