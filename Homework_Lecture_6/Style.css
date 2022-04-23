@@ -75,3 +75,8 @@ h1.headline {
 img {
   float: right;
 }
+
+#relativeTop {
+  position: relative;
+  top: 25px;
+}
