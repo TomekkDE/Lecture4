@@ -85,3 +85,10 @@ img Cat10.jpg {
   position: relative;
   left: 40px;
 }
+
+
+h3 {
+  position: absolute;
+  left: 120px;
+  top: 100px;
+}
