@@ -80,3 +80,8 @@ img Cat10.jpg {
   position: relative;
   top: 25px;
 }
+
+#relativeLeft {
+  position: relative;
+  left: 40px;
+}
