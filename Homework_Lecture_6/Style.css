@@ -92,3 +92,12 @@ h3 {
   left: 120px;
   top: 100px;
 }
+
+#text {
+  padding: 15px;
+  
+  border-left: blue 5px dotted;
+  border-right: blue 5px dotted;
+  border-top: orange 5px dotted;
+  border-bottom: orange 5px dotted;
+}
