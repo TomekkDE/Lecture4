@@ -104,3 +104,9 @@ h3 {
     width: 180px;
     height: 100px;
 }
+
+#static {
+  padding: 10px 15px
+  
+  border-left: blue 5px dotted;
+}
