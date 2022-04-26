@@ -112,3 +112,8 @@ h3 {
 #relativeTop {
   padding: 25px
 }
+
+#withmargin {
+  margin: 20px;
+  float: right;
+}
