@@ -12,11 +12,6 @@ h1.headline {
     height: 80px;
 }
 
-#text {
-    background-color: blue;
-    width: 180px;
-    height: 100px;
-}
 
 .spacecow {
     padding-top: 50px;
@@ -77,11 +72,15 @@ img Cat10.jpg {
 }
 
 #relativeTop {
+  padding: 15px;
+
   position: relative;
   top: 25px;
 }
 
 #relativeLeft {
+  padding: 15px;
+
   position: relative;
   left: 40px;
 }
@@ -100,4 +99,8 @@ h3 {
   border-right: blue 5px dotted;
   border-top: orange 5px dotted;
   border-bottom: orange 5px dotted;
+
+  background-color: blue;
+    width: 180px;
+    height: 100px;
 }
