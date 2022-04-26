@@ -95,8 +95,8 @@ h3 {
 #text {
   padding: 15px;
   
-  border-left: blue 5px dotted;
-  border-right: blue 5px dotted;
+  border-left: rgb(255, 0, 102) 5px dotted;
+  border-right: rgb(0, 255, 51) 5px dotted;
   border-top: orange 5px dotted;
   border-bottom: orange 5px dotted;
 
