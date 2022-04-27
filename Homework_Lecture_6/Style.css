@@ -116,7 +116,14 @@ h3 {
 #withmargin {
   margin: 20px;
   float: right;
-  
+}
+
+.whitebox {
+  border: solid black 1px;
+  padding: 8px;
+  background-color: white;
+  width: 80px;
+  height: 36px;
 }
 
 #weed {
