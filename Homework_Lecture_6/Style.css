@@ -68,7 +68,11 @@ h1.headline {
 }
   
 img Cat10.jpg {
-  float: right;
+  float: left;
+}
+
+img Cat11,jpg {
+  float: left;
 }
 
 #relativeTop {
