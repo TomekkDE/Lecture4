@@ -122,3 +122,10 @@ h3 {
   background-color: rgb(255, 0, 183);
   padding: 50px
 }
+
+.cat {
+  padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
