@@ -1,0 +1,67 @@
+
+
+
+@media (min-width:300px) {
+
+    article {
+
+        color: red;
+        border: 2px solid blue;
+
+    }
+}
+
+@media (min-width:600px) {
+
+    article {
+    /*
+    color:red;
+    border: 2px solid blue; */
+
+    border-radius: 5px;
+        
+    }
+}
+@media (min-width:900px) {
+
+    article {
+    /*
+    color:red;
+    border: 2px solid blue;*/
+
+    color: blue;
+        
+    }
+}
+
+
+BACK TO BACK :-moz-user-disabled
+@media (min-width: 300px) and (max-width: 599px) {
+
+    article {
+        
+        color: red;
+        border: 1px solid red;
+    }
+
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+
+    article {
+
+        color: red;
+        border: 5px solid red;
+    }
+
+}
+
+@media (min-width: 900px) {
+
+    article {
+
+        color: orange;
+        border: 5px solid red;
+    }
+
+}
